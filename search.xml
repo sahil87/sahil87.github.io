@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Switching (back) from hugo to hexo]]></title>
+    <url>%2Fpost%2F2018%2FSwitching-back-from-hugo-to-hexo%2F</url>
+    <content type="text"><![CDATA[Been relly since I blogged anything. Primary reasons being that blogging and searching through the existing blog has become tougher than needed. I suspect that was because of Hugo and the theme I has selected in it. Spent today shifting all my blog back from hugo to hexo. Paid a heavy price for not sticking as closely to Markdown spec as possible. It was a close call between Hexo Next and Icarus theme. Finally went with Hexo Next for the ease of use. Now live at https://www.sahil.cc]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>hugo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Keep Docker Running]]></title>
     <url>%2Fpost%2F2018%2Fkeep-docker-running%2F</url>
     <content type="text"><![CDATA[Many we times we want dockers to keep running when started, either through docker-compose or kubernetes The following are a few of the command we can use to achieve the same: sleep inf tail -F /dev/null These commands need to run as the first thing that these dockers run. So they go as the entrypoint. Or if you want flexiblity you can add them as command, but ensure that the entrypoint know how to run these. These can also be passed directly to the docker run command, and later you can start a bash terminal using docker exec (instead of starting bash/sh in docker run and the using docker attach)]]></content>
@@ -33,8 +45,8 @@
         <category>guide</category>
       </categories>
       <tags>
-        <tag>ubuntu</tag>
         <tag>yaml</tag>
+        <tag>ubuntu</tag>
       </tags>
   </entry>
   <entry>
@@ -142,8 +154,8 @@
         <category>blog</category>
       </categories>
       <tags>
-        <tag>analytics</tag>
         <tag>google</tag>
+        <tag>analytics</tag>
         <tag>tracking</tag>
       </tags>
   </entry>
@@ -526,8 +538,8 @@
       </categories>
       <tags>
         <tag>fedora</tag>
-        <tag>ldap</tag>
         <tag>delta</tag>
+        <tag>ldap</tag>
         <tag>dalal</tag>
         <tag>nfs</tag>
         <tag>pcbo</tag>
@@ -543,10 +555,10 @@
         <category>nitt</category>
       </categories>
       <tags>
+        <tag>delta</tag>
         <tag>ldap</tag>
         <tag>httpd</tag>
         <tag>svn</tag>
-        <tag>delta</tag>
         <tag>trac</tag>
       </tags>
   </entry>
@@ -559,8 +571,8 @@
       </categories>
       <tags>
         <tag>httpd</tag>
-        <tag>errors</tag>
         <tag>svn</tag>
+        <tag>errors</tag>
       </tags>
   </entry>
   <entry>
@@ -642,8 +654,8 @@
       </categories>
       <tags>
         <tag>fedora</tag>
-        <tag>fds</tag>
         <tag>ldap</tag>
+        <tag>fds</tag>
       </tags>
   </entry>
   <entry>
