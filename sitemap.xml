@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.sahil.cc/post/2018/keep-docker-running/</loc>
+    <loc>https://www.sahil.cc/post/2018/Switching-back-from-hugo-to-hexo/</loc>
     
-    <lastmod>2018-12-22T20:58:08.857Z</lastmod>
+    <lastmod>2018-12-25T18:13:34.237Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2018/Switching-back-from-hugo-to-hexo/</loc>
+    <loc>https://www.sahil.cc/post/2018/Does-SELinux-save-you-against-rm-rf/</loc>
     
-    <lastmod>2018-12-22T20:58:08.845Z</lastmod>
+    <lastmod>2018-12-25T18:10:22.075Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2018/keep-docker-running/</loc>
+    
+    <lastmod>2018-12-22T20:58:08.857Z</lastmod>
     
   </url>
   
@@ -247,13 +254,6 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2017/Does-SELinux-save-you-against-rm-rf/</loc>
-    
-    <lastmod>2018-12-22T12:31:05.131Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.sahil.cc/post/2017/Tracking-hostname-in-Google-Analytics/</loc>
     
     <lastmod>2018-12-22T12:28:53.419Z</lastmod>
@@ -282,13 +282,6 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/about/index-2.html</loc>
-    
-    <lastmod>2018-12-22T12:09:17.526Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.sahil.cc/about/index-1.html</loc>
     
     <lastmod>2018-12-22T12:09:17.526Z</lastmod>
@@ -296,35 +289,14 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2018/Does-SELinux-save-you-against-rm-rf/</loc>
+    <loc>https://www.sahil.cc/about/index-2.html</loc>
     
     <lastmod>2018-12-22T12:09:17.526Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2009/making-fedora-work-offline/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/trip-to-pune/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/tomcat-started/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/using-digikam-for-managing-photos/</loc>
+    <loc>https://www.sahil.cc/post/2006/things-i-have-done-in-the-past-6-months/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -338,7 +310,28 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/playing-around/</loc>
+    <loc>https://www.sahil.cc/post/2006/tomcat-started/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/trip-to-pune/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/using-digikam-for-managing-photos/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/planning-ahead/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -352,35 +345,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2007/trip-to-goa/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.sahil.cc/post/2007/normal-forms/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/plan-b/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/java-with-mysql/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/its-so-easy-resetting-the-root-password-i-mean/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -394,14 +359,56 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2008/leaving-college-at-last-yipeeeeee/</loc>
+    <loc>https://www.sahil.cc/post/2006/intro/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/last-row-of-the-sun-lab/</loc>
+    <loc>https://www.sahil.cc/post/2008/crazy-svn-httpd-errors-301-302/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2007/trip-to-goa/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/interfacing-with-c/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/installing-xgnokii-for-n-gage-in-fedora-core-5/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/gplmpllgpl/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2008/fedora-directory-server-rocks/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2008/leaving-college-at-last-yipeeeeee/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -429,7 +436,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2008/fedora-directory-server-rocks/</loc>
+    <loc>https://www.sahil.cc/post/2006/here-is-a-way-to-search-great-things-through-google/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -478,21 +485,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/relaxing/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2009/httpd-with-selinux/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2009/digikam-caveats-things-to-make-sure-using-digikam/</loc>
+    <loc>https://www.sahil.cc/post/2006/last-row-of-the-sun-lab/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -506,7 +499,28 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/project-going-fast-ahead/</loc>
+    <loc>https://www.sahil.cc/post/2009/digikam-caveats-things-to-make-sure-using-digikam/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2009/httpd-with-selinux/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2009/making-fedora-work-offline/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/plan-b/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -520,14 +534,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/interfacing-with-c/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2016/DNS-redirection-to-URL-through-Route-53-and-S3/</loc>
+    <loc>https://www.sahil.cc/post/2010/bangalore-international-airport-shuttle-service-timings-and-route/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -541,28 +548,35 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2010/bangalore-international-airport-shuttle-service-timings-and-route/</loc>
+    <loc>https://www.sahil.cc/post/2016/DNS-redirection-to-URL-through-Route-53-and-S3/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/here-is-a-way-to-search-great-things-through-google/</loc>
+    <loc>https://www.sahil.cc/post/2006/playing-around/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/gplmpllgpl/</loc>
+    <loc>https://www.sahil.cc/post/2006/project-at-iit-bombay/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2016/JWT-JSON-Web-Token-Passing-on-the-secret-without-letting-the-neighours-know/</loc>
+    <loc>https://www.sahil.cc/post/2006/its-so-easy-resetting-the-root-password-i-mean/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2016/Issues-while-renewing-Passport-the-JS-one/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -576,14 +590,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/intro/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/installing-xgnokii-for-n-gage-in-fedora-core-5/</loc>
+    <loc>https://www.sahil.cc/post/2016/JWT-JSON-Web-Token-Passing-on-the-secret-without-letting-the-neighours-know/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -597,14 +604,14 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/programs-like-these-make-life-easy-fedora-frog/</loc>
+    <loc>https://www.sahil.cc/post/2006/project-going-fast-ahead/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/aamchi-mumbai-kelon-ka-din/</loc>
+    <loc>https://www.sahil.cc/post/2006/relaxing/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -639,7 +646,14 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/stuck/</loc>
+    <loc>https://www.sahil.cc/post/2006/starting-work/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/programs-like-these-make-life-easy-fedora-frog/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -647,13 +661,6 @@
   
   <url>
     <loc>https://www.sahil.cc/post/2017/jus-rants/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/starting-work/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -674,35 +681,14 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2007/a-tryst-with-a-first-year/</loc>
+    <loc>https://www.sahil.cc/post/2006/stuck/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2008/mail-with-postfix-and-ldap/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/things-i-have-done-in-the-past-6-months/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/planning-ahead/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/project-at-iit-bombay/</loc>
+    <loc>https://www.sahil.cc/post/2006/java-with-mysql/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -710,20 +696,6 @@
   
   <url>
     <loc>https://www.sahil.cc/post/2006/gpl-hijacking/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/file-sharing-on-lan/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/coming-back-home/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -744,14 +716,35 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2008/crazy-svn-httpd-errors-301-302/</loc>
+    <loc>https://www.sahil.cc/post/2006/file-sharing-on-lan/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2016/Issues-while-renewing-Passport-the-JS-one/</loc>
+    <loc>https://www.sahil.cc/post/2006/coming-back-home/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/aamchi-mumbai-kelon-ka-din/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2007/a-tryst-with-a-first-year/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2008/mail-with-postfix-and-ldap/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     

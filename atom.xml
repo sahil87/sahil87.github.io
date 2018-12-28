@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.sahil.cc/"/>
-  <updated>2018-12-22T20:58:08.845Z</updated>
+  <updated>2018-12-25T18:13:34.237Z</updated>
   <id>https://www.sahil.cc/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="https://www.sahil.cc/post/2018/Switching-back-from-hugo-to-hexo/"/>
     <id>https://www.sahil.cc/post/2018/Switching-back-from-hugo-to-hexo/</id>
     <published>2018-12-22T20:50:00.000Z</published>
-    <updated>2018-12-22T20:58:08.845Z</updated>
+    <updated>2018-12-25T18:13:34.237Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Been relly since I blogged anything. Primary reasons being that blogging and searching through the existing blog has become tougher than 
+        &lt;p&gt;It has been really long since I blogged anything. The primary reason was that blogging and searching through the existing blog had become
       
     
     </summary>
@@ -86,9 +86,34 @@
       <category term="guide" scheme="https://www.sahil.cc/categories/guide/"/>
     
     
+      <category term="ubuntu" scheme="https://www.sahil.cc/tags/ubuntu/"/>
+    
       <category term="yaml" scheme="https://www.sahil.cc/tags/yaml/"/>
     
-      <category term="ubuntu" scheme="https://www.sahil.cc/tags/ubuntu/"/>
+  </entry>
+  
+  <entry>
+    <title>Does SELinux save you against rm -rf ?</title>
+    <link href="https://www.sahil.cc/post/2018/Does-SELinux-save-you-against-rm-rf/"/>
+    <id>https://www.sahil.cc/post/2018/Does-SELinux-save-you-against-rm-rf/</id>
+    <published>2018-02-12T02:18:46.000Z</published>
+    <updated>2018-12-25T18:10:22.075Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Always wondered if there is way in SELinux to disable the &lt;a href=&quot;/post/2016/Not-funny-one-of-every-six-times&quot;&gt;deadly&lt;/a&gt; &lt;code&gt;rm -rf&lt;/
+      
+    
+    </summary>
+    
+      <category term="blog" scheme="https://www.sahil.cc/categories/blog/"/>
+    
+    
+      <category term="fedora" scheme="https://www.sahil.cc/tags/fedora/"/>
+    
+      <category term="selinux" scheme="https://www.sahil.cc/tags/selinux/"/>
     
   </entry>
   
@@ -112,31 +137,6 @@
     
     
       <category term="linuxmint" scheme="https://www.sahil.cc/tags/linuxmint/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Does SELinux save you against rm -rf ?</title>
-    <link href="https://www.sahil.cc/post/2017/Does-SELinux-save-you-against-rm-rf/"/>
-    <id>https://www.sahil.cc/post/2017/Does-SELinux-save-you-against-rm-rf/</id>
-    <published>2017-12-06T12:00:00.000Z</published>
-    <updated>2018-12-22T12:31:05.131Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Always wondered if there is way in SELinux to disable the &lt;a href=&quot;/post/2016/Not-funny-one-of-every-six-times&quot;&gt;deadly&lt;/a&gt; &lt;code&gt;rm -rf&lt;/
-      
-    
-    </summary>
-    
-      <category term="blog" scheme="https://www.sahil.cc/categories/blog/"/>
-    
-    
-      <category term="fedora" scheme="https://www.sahil.cc/tags/fedora/"/>
-    
-      <category term="linux" scheme="https://www.sahil.cc/tags/linux/"/>
     
   </entry>
   
