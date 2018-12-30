@@ -117,7 +117,7 @@
 <meta property="og:description" content="Most used (but yet unremembered) git commands TLDR;123gl #git log --oneline --decorate --graph --allgll #git log --graph --pretty=&apos;%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&amp;lt;">
 <meta property="og:locale" content="en">
 <meta property="og:image" content="https://www.sahil.cc/images/2016/caveman4.jpg">
-<meta property="og:updated_time" content="2018-12-30T10:15:02.917Z">
+<meta property="og:updated_time" content="2018-12-30T10:42:30.585Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Good Git!">
 <meta name="twitter:description" content="Most used (but yet unremembered) git commands TLDR;123gl #git log --oneline --decorate --graph --allgll #git log --graph --pretty=&apos;%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&amp;lt;">
@@ -458,7 +458,7 @@
                 
                   <span class="post-meta-item-text">Edited on</span>
                 
-                <time title="Modified: 2018-12-30 15:45:02" itemprop="dateModified" datetime="2018-12-30T15:45:02+05:30">2018-12-30</time>
+                <time title="Modified: 2018-12-30 16:12:30" itemprop="dateModified" datetime="2018-12-30T16:12:30+05:30">2018-12-30</time>
               
             
           </span>
@@ -520,12 +520,12 @@
       
 
       
-        <h2 id="Most-used-but-yet-unremembered-git-commands"><a href="#Most-used-but-yet-unremembered-git-commands" class="headerlink" title="Most used (but yet unremembered) git commands"></a>Most used (but yet unremembered) git commands</h2><p><img src="/images/2016/caveman4.jpg" alt="Caveman Fire"></p>
+        <h2 id="Most-used-but-yet-unremembered-git-commands"><a href="#Most-used-but-yet-unremembered-git-commands" class="headerlink" title="Most used (but yet unremembered) git commands"></a>Most used (but yet unremembered) git commands</h2><span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><img itemprop="url image" src="/images/2016/caveman4.jpg" class="full-image" alt="Git Caveman"><meta itemprop="width" content="auto"><meta itemprop="height" content="auto"></span>
 <p>TLDR;<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">gl <span class="comment">#git log --oneline --decorate --graph --all</span></span><br><span class="line">gll <span class="comment">#git log --graph --pretty='%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit --all</span></span><br><span class="line">tig <span class="comment">#A commandline git history viewer</span></span><br></pre></td></tr></table></figure></p>
 <a id="more"></a>
 <h3 id="Push-your-currently-detached-HEAD"><a href="#Push-your-currently-detached-HEAD" class="headerlink" title="Push your currently detached HEAD"></a>Push your currently detached HEAD</h3><p><code>git push origin HEAD:master</code> </p>
 <h3 id="Delete-remote-branches-only"><a href="#Delete-remote-branches-only" class="headerlink" title="Delete remote branches only"></a>Delete remote branches only</h3><p><code>git push origin --delete branch_to_delete</code></p>
-<h3 id="Changes-in-git-index-vs-local-filesystem"><a href="#Changes-in-git-index-vs-local-filesystem" class="headerlink" title="Changes in git index vs. local filesystem"></a>Changes in git index vs. local filesystem</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">git commit -m <span class="string">"Something terribly misguided"</span></span><br><span class="line">git reset --soft HEAD~</span><br><span class="line">&lt;&lt; edit files as necessary &gt;&gt; </span><br><span class="line">git add ... </span><br><span class="line">git commit -c ORIG_HEAD</span><br></pre></td></tr></table></figure>
+<h3 id="Changes-in-git-index-vs-local-filesystem"><a href="#Changes-in-git-index-vs-local-filesystem" class="headerlink" title="Changes in git index vs. local filesystem"></a>Changes in git index vs. local filesystem</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">git commit -m <span class="string">"Something terribly misguided"</span></span><br><span class="line">git reset --soft HEAD~</span><br><span class="line"><span class="comment">#&lt;&lt; edit files as necessary &gt;&gt; </span></span><br><span class="line">git add ... </span><br><span class="line">git commit -c ORIG_HEAD</span><br></pre></td></tr></table></figure>
 <ul>
 <li><code>git reset --soft HEAD~1</code> doesn’t remove the changes from index (i.e. <code>git commit</code> adds them again, no need to git add.).</li>
 <li><code>git reset HEAD~1</code> undoes the commit, removes changes from index but keeps the changes locally (working tree)</li>
