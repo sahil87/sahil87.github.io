@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.sahil.cc/post/2016/Good-Git/</loc>
+    
+    <lastmod>2018-12-30T10:15:02.917Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.sahil.cc/post/2018/Switching-back-from-hugo-to-hexo/</loc>
     
     <lastmod>2018-12-25T18:13:34.237Z</lastmod>
@@ -212,13 +219,6 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2016/Good-Git/</loc>
-    
-    <lastmod>2018-12-22T19:18:32.949Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.sahil.cc/tags/index.html</loc>
     
     <lastmod>2018-12-22T19:04:41.623Z</lastmod>
@@ -331,7 +331,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/planning-ahead/</loc>
+    <loc>https://www.sahil.cc/post/2006/playing-around/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -339,6 +339,13 @@
   
   <url>
     <loc>https://www.sahil.cc/post/2007/back-to-square-one/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/its-so-easy-resetting-the-root-password-i-mean/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -359,7 +366,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/intro/</loc>
+    <loc>https://www.sahil.cc/post/2007/trip-to-goa/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -373,21 +380,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2007/trip-to-goa/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/interfacing-with-c/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/installing-xgnokii-for-n-gage-in-fedora-core-5/</loc>
+    <loc>https://www.sahil.cc/post/2006/intro/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -401,14 +394,14 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2008/fedora-directory-server-rocks/</loc>
+    <loc>https://www.sahil.cc/post/2006/interfacing-with-c/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2008/leaving-college-at-last-yipeeeeee/</loc>
+    <loc>https://www.sahil.cc/post/2008/fedora-directory-server-rocks/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -429,6 +422,13 @@
   </url>
   
   <url>
+    <loc>https://www.sahil.cc/post/2008/leaving-college-at-last-yipeeeeee/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.sahil.cc/post/2008/life/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
@@ -436,7 +436,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/here-is-a-way-to-search-great-things-through-google/</loc>
+    <loc>https://www.sahil.cc/post/2006/installing-xgnokii-for-n-gage-in-fedora-core-5/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -450,14 +450,14 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2008/t-shirt-quotes/</loc>
+    <loc>https://www.sahil.cc/post/2008/talk-about-punctuality/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2008/talk-about-punctuality/</loc>
+    <loc>https://www.sahil.cc/post/2008/t-shirt-quotes/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -485,7 +485,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/last-row-of-the-sun-lab/</loc>
+    <loc>https://www.sahil.cc/post/2006/plan-b/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -520,14 +520,14 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/plan-b/</loc>
+    <loc>https://www.sahil.cc/post/2016/A-Good-Hexo-Tutorial/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2016/A-Good-Hexo-Tutorial/</loc>
+    <loc>https://www.sahil.cc/post/2006/planning-ahead/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -541,13 +541,6 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2016/Hello-World/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.sahil.cc/post/2016/DNS-redirection-to-URL-through-Route-53-and-S3/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
@@ -555,7 +548,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/playing-around/</loc>
+    <loc>https://www.sahil.cc/post/2016/Hello-World/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -569,7 +562,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/its-so-easy-resetting-the-root-password-i-mean/</loc>
+    <loc>https://www.sahil.cc/post/2006/gpl-hijacking/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -583,13 +576,6 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2016/Measuring-the-ripples-cross-domain-tracking/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.sahil.cc/post/2016/JWT-JSON-Web-Token-Passing-on-the-secret-without-letting-the-neighours-know/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
@@ -597,7 +583,28 @@
   </url>
   
   <url>
+    <loc>https://www.sahil.cc/post/2016/Measuring-the-ripples-cross-domain-tracking/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/last-row-of-the-sun-lab/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.sahil.cc/post/2006/iit-b-project/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/programs-like-these-make-life-easy-fedora-frog/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -625,13 +632,6 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/started-report/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.sahil.cc/post/2017/This-too-happens/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
@@ -646,14 +646,7 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/starting-work/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/programs-like-these-make-life-easy-fedora-frog/</loc>
+    <loc>https://www.sahil.cc/post/2006/started-report/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -661,6 +654,13 @@
   
   <url>
     <loc>https://www.sahil.cc/post/2017/jus-rants/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/starting-work/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -695,21 +695,14 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/gpl-hijacking/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sahil.cc/post/2006/day-7/</loc>
-    
-    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.sahil.cc/post/2017/typing-unicode-characters-in-ubuntu/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/here-is-a-way-to-search-great-things-through-google/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
@@ -723,14 +716,21 @@
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/coming-back-home/</loc>
+    <loc>https://www.sahil.cc/post/2006/aamchi-mumbai-kelon-ka-din/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.sahil.cc/post/2006/aamchi-mumbai-kelon-ka-din/</loc>
+    <loc>https://www.sahil.cc/post/2006/day-7/</loc>
+    
+    <lastmod>2018-05-30T17:21:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sahil.cc/post/2006/coming-back-home/</loc>
     
     <lastmod>2018-05-30T17:21:20.000Z</lastmod>
     
